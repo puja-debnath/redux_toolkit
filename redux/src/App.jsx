@@ -7,7 +7,7 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-   <h1>ajsdhfjashfd</h1>
+   <h1 className='text-4xl text-pink-900 m-40'>puja debanth</h1>
   )
 }
 
